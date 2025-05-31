@@ -1,12 +1,11 @@
-<h2 align="left">Hi 👋! My name is Quoc Dung</h2>
+# 🚀 About me
+📍 Based in Montreal <br>
+💻 Computer science student <br>
+📖 Currently studying at ETS
 
 ###
 
-<h4 align="left">📖 Computer science student</h4>
-
-###
-
-<h2 align="left">📊 Stats</h2>
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuocDungTran380&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -16,7 +15,7 @@
 
 ###
 
-<h2 align="left">💻 Programming skills</h2>
+## 🔭 Languages and tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -68,7 +67,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials</h2>
+## 🌐 Socials
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
