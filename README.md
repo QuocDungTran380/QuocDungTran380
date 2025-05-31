@@ -14,6 +14,8 @@
 
 ###
 
+<h2 align="left">Programming skills</h2>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -63,6 +65,8 @@
 </div>
 
 ###
+
+<h2 align="left">Socials</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
