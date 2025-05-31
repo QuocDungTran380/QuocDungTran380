@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Programming skills</h2>
+<h2 align="left">💻 Programming skills</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
