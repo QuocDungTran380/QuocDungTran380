@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">🌐 Socials</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
