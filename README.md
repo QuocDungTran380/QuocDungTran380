@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/20f8e8cb-6ecc-4b67-9757-87d5e9d2fb7a)
 # 🚀 About me
 📍 Based in Montreal <br>
 💻 Computer science student <br>
