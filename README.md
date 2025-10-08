@@ -2,7 +2,6 @@
 # 🚀 About me
 📍 Based in Montreal <br>
 💻 Computer science student <br>
-📖 Currently studying at ETS
 
 ###
 
